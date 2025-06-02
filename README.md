@@ -36,7 +36,8 @@ Este dashboard foi desenvolvido para:
 
 ## 🗃️ Fontes de Dados
 
-- 📌 Arquivo CSV (compactado): `archive (1).zip`  
+- 📌 Arquivo CSV (compactado): `archive (1).zip`
+- 📌 Fonte: 'https://www.kaggle.com/datasets/youssefelebiary/air-quality-2024'
 
 ---
 
